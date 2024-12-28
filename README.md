@@ -39,4 +39,4 @@ Nosso foco é desmistificar o uso de dados e transformar empresas, provando que 
 
 Quer aprender mais ou trocar ideias sobre como os dados podem transformar o seu negócio? Entre em contato comigo nas redes sociais:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=)
