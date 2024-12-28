@@ -1,8 +1,8 @@
-# Karen Amarante | Analista de Negócios e Especialista em BI
+# Karen Amarante | Analista de Negócios e Especialista em BI 🇧🇷
 
 Bem-vindo(a) ao meu repositório! Eu sou Karen Amarante, uma **Analista Sênior de Negócios** apaixonada por transformar dados em decisões estratégicas que geram resultados tangíveis. Com mais de 5 anos de experiência no setor de e-commerce e marketing, dedico meu trabalho a explorar o potencial dos dados para otimizar processos e impulsionar o sucesso das empresas.
 
-## Sobre Mim
+## ✨ Sobre Mim ✨
 
 Minha expertise se concentra em:
 
@@ -12,7 +12,7 @@ Minha expertise se concentra em:
 - **Colaboração Multidisciplinar:** Identificação e resolução de gargalos técnicos e operacionais com equipes diversas.
 - **Modelagem Estatística:** Utilização de dados para recomendar ações que impulsionam o crescimento e a eficiência operacional.
 
-### Ferramentas e Tecnologias
+### ⚙️ Ferramentas e Tecnologias 📈
 
 - Microsoft SQL Server
 - Power BI
@@ -22,7 +22,7 @@ Minha expertise se concentra em:
 
 ---
 
-## Sobre o Guiada por Dados
+## ⭐Sobre o Guiada por Dados 📱
 
 O projeto **Guiada por Dados** nasceu com o objetivo de ajudar pequenas e médias empresas a tomarem decisões mais estratégicas e embasadas em dados. Vamos além do marketing, mostrando como a análise de dados pode ser aplicada em áreas como:
 
@@ -39,4 +39,5 @@ Nosso foco é desmistificar o uso de dados e transformar empresas, provando que 
 
 Quer aprender mais ou trocar ideias sobre como os dados podem transformar o seu negócio? Entre em contato comigo nas redes sociais:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=)
+[![Instagram](https://img.shields.io/badge/-Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiadapordados/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamarante/)
